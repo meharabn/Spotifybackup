@@ -1,4 +1,4 @@
-config ={
+config = {
 "uri":"http://localhost:8888",
 "redirect_uri":"http://localhost:8888/login.html",
 "client_id":"[a2b5962479ba401491bcf34dc5db26a2]",
